@@ -6,3 +6,8 @@ car
 bike
 van
 truck
+
+thank you 
+
+final copy
+
