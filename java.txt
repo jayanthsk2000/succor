@@ -5,3 +5,4 @@ welcome to cars
 car
 bike
 van
+truck
