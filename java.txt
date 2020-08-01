@@ -6,3 +6,7 @@ car
 bike
 van
 truck
+
+sengunthar
+ksr 
+ssm
